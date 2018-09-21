@@ -1,0 +1,14 @@
+{
+  "name": "portofolio_site",
+  "version": "1.0.0",
+  "description": "Responsive portofolio site",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Mcwachira",
+  "homepage": "https://mcwachira.github.io/typing-game",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}

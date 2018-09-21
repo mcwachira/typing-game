@@ -1,0 +1,15 @@
+body {
+    margin: auto;
+    background: url(../img/pexel.jpeg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.btn {
+    text-align: center;
+}
+
+.dropdown-menu {
+    background-color: rgb(50, 141, 50);
+    color: white;
+}

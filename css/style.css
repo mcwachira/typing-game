@@ -1,8 +1,9 @@
 body {
     margin: auto;
-    background: url(../img/pexel.jpeg);
+    background: url("../img/pexel.jpg") no-repeat;
     background-size: cover;
     background-position: center center;
+    /* min-height: 100%; */
 }
 
 .btn {

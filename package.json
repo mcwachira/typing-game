@@ -9,5 +9,7 @@
   "author": "Mcwachira",
   "license": "ISC",
   "homepage": "https://mcwachira.github.io/typing-game",
-  "dependencies": {}
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
 }
